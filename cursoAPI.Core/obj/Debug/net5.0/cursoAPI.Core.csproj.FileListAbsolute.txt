@@ -1,0 +1,12 @@
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\bin\Debug\net5.0\cursoAPI.Core.deps.json
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\bin\Debug\net5.0\cursoAPI.Core.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\bin\Debug\net5.0\ref\cursoAPI.Core.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\bin\Debug\net5.0\cursoAPI.Core.pdb
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\cursoAPI.Core.csproj.AssemblyReference.cache
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\cursoAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\cursoAPI.Core.AssemblyInfoInputs.cache
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\cursoAPI.Core.AssemblyInfo.cs
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\cursoAPI.Core.csproj.CoreCompileInputs.cache
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\cursoAPI.Core.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\ref\cursoAPI.Core.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Core\obj\Debug\net5.0\cursoAPI.Core.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cursoAPI.Api", "cursoAPI.Api\cursoAPI.Api.csproj", "{35D0324C-267D-4054-BEA8-5152D5B88529}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cursoAPI.Core", "cursoAPI.Core\cursoAPI.Core.csproj", "{1BF2DA35-6D5F-45F7-AD95-2670087A6C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursoAPI.Infrastructure", "cursoAPI.Infrastructure\cursoAPI.Infrastructure.csproj", "{72C55CF7-5B62-4E49-96AB-31AD648618F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9C483E24-E6F8-42D0-9A7D-9E076057AE96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursoAPI.UnitTests", "cursoAPI.UnitTests\cursoAPI.UnitTests.csproj", "{131AEA40-08EE-424C-BA9E-F84DD045E803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursoAPI.IntegrationTests", "cursoAPI.IntegrationTests\cursoAPI.IntegrationTests.csproj", "{C3A50A9D-A920-4DAC-9291-C640BB8DA49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D0324C-267D-4054-BEA8-5152D5B88529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D0324C-267D-4054-BEA8-5152D5B88529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D0324C-267D-4054-BEA8-5152D5B88529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D0324C-267D-4054-BEA8-5152D5B88529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF2DA35-6D5F-45F7-AD95-2670087A6C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF2DA35-6D5F-45F7-AD95-2670087A6C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF2DA35-6D5F-45F7-AD95-2670087A6C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF2DA35-6D5F-45F7-AD95-2670087A6C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C55CF7-5B62-4E49-96AB-31AD648618F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C55CF7-5B62-4E49-96AB-31AD648618F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C55CF7-5B62-4E49-96AB-31AD648618F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C55CF7-5B62-4E49-96AB-31AD648618F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131AEA40-08EE-424C-BA9E-F84DD045E803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131AEA40-08EE-424C-BA9E-F84DD045E803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131AEA40-08EE-424C-BA9E-F84DD045E803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131AEA40-08EE-424C-BA9E-F84DD045E803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A50A9D-A920-4DAC-9291-C640BB8DA49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A50A9D-A920-4DAC-9291-C640BB8DA49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A50A9D-A920-4DAC-9291-C640BB8DA49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A50A9D-A920-4DAC-9291-C640BB8DA49D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{131AEA40-08EE-424C-BA9E-F84DD045E803} = {9C483E24-E6F8-42D0-9A7D-9E076057AE96}
+		{C3A50A9D-A920-4DAC-9291-C640BB8DA49D} = {9C483E24-E6F8-42D0-9A7D-9E076057AE96}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556FA6FC-3B47-4B74-8D18-FC138B57CF69}
+	EndGlobalSection
+EndGlobal

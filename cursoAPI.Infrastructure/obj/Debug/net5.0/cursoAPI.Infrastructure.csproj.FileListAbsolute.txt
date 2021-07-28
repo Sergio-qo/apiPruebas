@@ -1,0 +1,15 @@
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\bin\Debug\net5.0\cursoAPI.Infrastructure.deps.json
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\bin\Debug\net5.0\cursoAPI.Infrastructure.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\bin\Debug\net5.0\ref\cursoAPI.Infrastructure.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\bin\Debug\net5.0\cursoAPI.Infrastructure.pdb
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\bin\Debug\net5.0\cursoAPI.Core.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\bin\Debug\net5.0\cursoAPI.Core.pdb
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.csproj.AssemblyReference.cache
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.AssemblyInfoInputs.cache
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.AssemblyInfo.cs
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.csproj.CopyComplete
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\ref\cursoAPI.Infrastructure.dll
+E:\Achivos\proyectos\programacion\c#\cursoAPI\cursoAPI.Infrastructure\obj\Debug\net5.0\cursoAPI.Infrastructure.pdb

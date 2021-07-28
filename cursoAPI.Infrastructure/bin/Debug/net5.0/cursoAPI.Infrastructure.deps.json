@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cursoAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "cursoAPI.Core": "1.0.0"
+        },
+        "runtime": {
+          "cursoAPI.Infrastructure.dll": {}
+        }
+      },
+      "cursoAPI.Core/1.0.0": {
+        "runtime": {
+          "cursoAPI.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cursoAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cursoAPI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
