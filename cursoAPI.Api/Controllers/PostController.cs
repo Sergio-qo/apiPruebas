@@ -1,9 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using cursoAPI.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace cursoAPI.Api.Controllers
 {
@@ -13,8 +9,8 @@ namespace cursoAPI.Api.Controllers
     {
         public IActionResult GetPosts()
         {
-            
-            return Ok(null);
+            var posts = new PostRepository().GetPosts();
+            return Ok(posts);
         }
     }
 }
